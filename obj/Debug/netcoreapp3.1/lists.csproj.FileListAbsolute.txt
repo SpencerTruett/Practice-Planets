@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.exe
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.deps.json
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.dll
+C:\Users\gilde\workspace\csharp\exercises\lists\bin\Debug\netcoreapp3.1\lists.pdb
+C:\Users\gilde\workspace\csharp\exercises\lists\obj\Debug\netcoreapp3.1\lists.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\lists\obj\Debug\netcoreapp3.1\lists.dll
+C:\Users\gilde\workspace\csharp\exercises\lists\obj\Debug\netcoreapp3.1\lists.pdb
